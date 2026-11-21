@@ -1,0 +1,1 @@
+PASS: source Git blob, split/group isolation, search counts and best scores, CV mean/std, independently recomputed test F1, chosen winner, executed notebook schema.

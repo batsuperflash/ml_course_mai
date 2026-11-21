@@ -1,0 +1,14 @@
+{
+  "selected": "Grid",
+  "params": {
+    "clf__ccp_alpha": 0.0,
+    "clf__max_depth": 3,
+    "clf__min_samples_leaf": 3
+  },
+  "criterion": "max mean CV F1; tie: Baseline, Grid, Random",
+  "cv_means": {
+    "Baseline": 0.676319273437171,
+    "Grid": 0.7515566010575696,
+    "Random": 0.7515566010575696
+  }
+}
